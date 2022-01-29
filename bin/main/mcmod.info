@@ -1,0 +1,16 @@
+[
+{
+  "modid": "phantom",
+  "name": "Phantom",
+  "description": "Get Ez'd",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SomePineaple"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,17 @@
+{
+	"required"           : true,
+	"compatibilityLevel" : "JAVA_8",
+	"package"            : "dev.somepineaple.phantom.mixins",
+	"refmap"             : "phantom.refmap.json",
+	"mixins"             : [
+		"MixinNetworkManager",
+		"MixinEntityRenderer",
+		"MixinEntityPlayerSP",
+		"MixinMinecraft",
+		"MixinEntity",
+		"IRenderManager",
+		"IMinecraft",
+		"IS12PacketEntityVelocity"
+	],
+	"minVersion": "0.7.10"
+}

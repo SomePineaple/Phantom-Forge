@@ -1,0 +1,40 @@
+[21:48:11] [Client thread/INFO]: Setting user: Player760
+[21:48:13] [Client thread/INFO]: LWJGL Version: 2.9.4
+[21:48:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Phantom
+[21:48:14] [Client thread/ERROR]: Couldn't initialize twitch stream
+[21:48:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:48:15] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[21:48:15] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:48:15] [Thread-8/INFO]: OpenAL initialized.
+[21:48:15] [Sound Library Loader/INFO]: Sound engine started
+[21:48:16] [Client thread/INFO]: Created: 16x16 textures-atlas
+[21:48:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Phantom
+[21:48:16] [Client thread/INFO]: SoundSystem shutting down...
+[21:48:17] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:48:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:48:17] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[21:48:17] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:48:17] [Thread-10/INFO]: OpenAL initialized.
+[21:48:17] [Sound Library Loader/INFO]: Sound engine started
+[21:48:17] [Client thread/INFO]: Created: 512x512 textures-atlas
+[21:48:21] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[21:48:21] [Server thread/INFO]: Generating keypair
+[21:48:21] [Server thread/INFO]: Preparing start region for level 0
+[21:48:22] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:48:22] [Server thread/INFO]: Player760[local:E:fe2b1922] logged in with entity id 171 at (-186.73636825856101, 68.0, -34.66034739717757)
+[21:48:22] [Server thread/INFO]: Player760 joined the game
+[21:48:26] [Server thread/INFO]: <Player760> .login
+[21:48:26] [Client thread/INFO]: [CHAT] <Player760> .login
+[21:48:30] [Server thread/INFO]: Saving and pausing game...
+[21:48:30] [Server thread/INFO]: Saving chunks for level 'testworld'/Overworld
+[21:48:30] [Server thread/INFO]: Saving chunks for level 'testworld'/Nether
+[21:48:30] [Server thread/INFO]: Saving chunks for level 'testworld'/The End
+[21:48:30] [Server thread/INFO]: Stopping server
+[21:48:30] [Server thread/INFO]: Saving players
+[21:48:30] [Server thread/INFO]: Saving worlds
+[21:48:30] [Server thread/INFO]: Saving chunks for level 'testworld'/Overworld
+[21:48:30] [Server thread/INFO]: Saving chunks for level 'testworld'/Nether
+[21:48:30] [Server thread/INFO]: Saving chunks for level 'testworld'/The End
+[21:48:31] [Client thread/INFO]: Stopping!
+[21:48:31] [Client thread/INFO]: SoundSystem shutting down...
+[21:48:32] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
