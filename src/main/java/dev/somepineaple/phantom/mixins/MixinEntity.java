@@ -46,7 +46,7 @@ public class MixinEntity {
 
 	@Inject(method = "getCollisionBorderSize", at = @At("HEAD"), cancellable = true)
 	private void getCollisionBorderSize(final CallbackInfoReturnable<Float> callbackInfoReturnable) {
-		final HitBoxes hitBoxes = (HitBoxes) Phantom.getModuleManager().getModuleWithName("HitBoxes");
+		final HitBoxes hitBoxes = (HitBoxes) Phantom.getModuleManager().getModuleWithName("Hit Boxes");
 
 		if (Objects.requireNonNull(hitBoxes).isEnabled())
 			callbackInfoReturnable.setReturnValue(0.1F + hitBoxes.getSettingWithName("Expand").floatVal());

@@ -24,7 +24,7 @@ public class AutoClicker extends Module {
     private boolean isSpiking, isDropping;
 
     public AutoClicker() {
-        super("AutoClicker", Category.COMBAT, -1);
+        super("Auto Clicker", Category.COMBAT, -1);
         lastClick = new MSTimer();
         hold = new MSTimer();
         eventTimer = new MSTimer();
