@@ -2,16 +2,9 @@ package dev.somepineaple.phantom.main.modules;
 
 import java.util.ArrayList;
 
+import dev.somepineaple.phantom.main.modules.combat.*;
 import org.lwjgl.input.Keyboard;
 
-import dev.somepineaple.phantom.main.modules.combat.AimAssist;
-import dev.somepineaple.phantom.main.modules.combat.AimBot;
-import dev.somepineaple.phantom.main.modules.combat.AutoClicker;
-import dev.somepineaple.phantom.main.modules.combat.KillAura;
-import dev.somepineaple.phantom.main.modules.combat.LagitAura;
-import dev.somepineaple.phantom.main.modules.combat.Reach;
-import dev.somepineaple.phantom.main.modules.combat.Teams;
-import dev.somepineaple.phantom.main.modules.combat.Velocity;
 import dev.somepineaple.phantom.main.modules.misc.Eagle;
 import dev.somepineaple.phantom.main.modules.misc.FastPlace;
 import dev.somepineaple.phantom.main.modules.movement.Flight;
@@ -42,6 +35,7 @@ public class ModuleManager {
 		modules.add(new AimAssist());
 		modules.add(new AimBot());
 		modules.add(new AutoClicker());
+		modules.add(new HitBoxes());
 		modules.add(new KillAura());
 		modules.add(new LagitAura());
 		modules.add(new Reach());
